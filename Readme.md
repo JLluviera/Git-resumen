@@ -1,4 +1,4 @@
-# Git: Historia, Uso y Patrocinadores
+# Git: El Motor del Desarrollo Colaborativo
 
 Este repositorio contiene una breve investigación sobre **Git**, el sistema de control de versiones distribuido más utilizado en el mundo.
 
