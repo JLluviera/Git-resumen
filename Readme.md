@@ -1,46 +1,60 @@
-# Git: El Motor del Desarrollo Colaborativo
-
-Este repositorio contiene una breve investigación sobre **Git**, el sistema de control de versiones distribuido más utilizado en el mundo.
+# Git: Historia, Uso y Patrocinadores
 
 📌 **Nota introductoria**  
-Este repositorio tiene como objetivo servir de práctica para el uso de **Git** y **GitHub**.  
-El contenido es un trabajo de investigación breve, orientado a comprender los conceptos básicos de Git y ejercitar la creación y manejo de repositorios.
+Este repositorio fue creado con fines académicos como parte de un trabajo práctico para aprender y aplicar conceptos básicos de **Git** y **GitHub**.  
+El contenido no busca reemplazar documentación oficial, sino ofrecer una investigación breve, estructurada y clara que permita comprender la importancia de Git, su origen, sus usos y los actores que lo apoyan.
 
 ---
 
 ## 📖 Historia breve
-Git fue creado en **2005** por **Linus Torvalds**, el mismo desarrollador del kernel de Linux.  
-La comunidad necesitaba una herramienta rápida, segura y de código abierto para gestionar el desarrollo del kernel después de dejar de utilizar BitKeeper.  
-Desde sus inicios, Git se diseñó con tres prioridades: **eficiencia, sencillez y confiabilidad**.
+Git nació en **2005**, desarrollado por **Linus Torvalds**, el creador del kernel de Linux.  
+La necesidad surgió cuando la comunidad de Linux dejó de utilizar BitKeeper, un sistema de control de versiones propietario, y buscaba una alternativa que cumpliera con ciertas características esenciales: **velocidad, confiabilidad, escalabilidad y libertad de uso**.  
 
+Desde el comienzo, Git se diseñó con el objetivo de ser simple de usar, extremadamente rápido y resistente ante la corrupción de datos. Estas cualidades lo convirtieron rápidamente en una de las herramientas más confiables y adoptadas en el ámbito del desarrollo de software.
+
+---
 
 ## ⚙️ Uso principal
-Git es un **sistema de control de versiones distribuido** (DVCS) que permite:  
-- Guardar el historial de cambios del código.  
-- Trabajar en equipo con ramas y fusiones.  
-- Seguir la trazabilidad de cambios y autores.  
-- Sincronizar repositorios locales y remotos.  
+Git es un **sistema de control de versiones distribuido (DVCS)**, lo que significa que cada desarrollador tiene una copia completa del repositorio, con todo el historial de cambios.  
+Entre sus usos principales destacan:  
 
-Comandos básicos:
-- `git init` → Crear un repositorio.  
-- `git add` → Preparar archivos.  
-- `git commit` → Registrar cambios.  
-- `git push / pull` → Subir y bajar cambios.  
-- `git branch / merge` → Manejo de ramas.  
+- Mantener un historial completo de cambios en proyectos.  
+- Facilitar el trabajo colaborativo en equipos mediante ramas y fusiones.  
+- Permitir la experimentación en entornos aislados sin afectar el código principal.  
+- Asegurar la trazabilidad de quién realizó cada cambio y en qué momento.  
+- Sincronizar proyectos locales con repositorios remotos en plataformas como GitHub, GitLab o Bitbucket.  
+
+### Comandos básicos
+Algunos de los comandos más utilizados en Git son:  
+- `git init` → Inicializa un repositorio en el directorio actual.  
+- `git add` → Añade archivos al área de preparación.  
+- `git commit` → Registra los cambios en el historial.  
+- `git push` → Envía los cambios al repositorio remoto.  
+- `git pull` → Trae y fusiona cambios desde el repositorio remoto.  
+- `git branch` → Crea o gestiona ramas de desarrollo.  
+- `git merge` → Fusiona ramas dentro del proyecto.  
+
+---
 
 ## 🤝 Patrocinadores y soporte
-Git es un proyecto de **software libre** bajo la licencia **GPLv2**.  
-Actualmente recibe soporte de la comunidad open source y de empresas de gran relevancia tecnológica, entre ellas:  
-  - **Google**  
-  - **Microsoft (GitHub)**  
-  - **Linux Foundation**  
-  - **GitLab**  
-  - **Atlassian (Bitbucket)**  
+Aunque Git es un proyecto de **software libre** bajo licencia **GPLv2**, su mantenimiento no depende únicamente de voluntarios. Actualmente recibe el apoyo de una comunidad global de desarrolladores y de grandes empresas tecnológicas que contribuyen a su desarrollo, entre ellas:  
+
+- **Google**  
+- **Microsoft (GitHub)**  
+- **Linux Foundation**  
+- **GitLab**  
+- **Atlassian (Bitbucket)**  
+
+Gracias a estas contribuciones, Git se mantiene actualizado, seguro y con un crecimiento constante, consolidándose como la herramienta de control de versiones más utilizada en el mundo.
 
 ---
 
 ## ✅ Conclusión
-Desde su nacimiento como herramienta para el desarrollo del kernel de Linux, Git se ha consolidado como el **estándar mundial de control de versiones**.  
-Hoy en día, su uso se extiende más allá de la programación, siendo esencial en proyectos colaborativos de múltiples disciplinas.
+Desde su creación como solución a un problema puntual en el desarrollo del kernel de Linux, Git se ha transformado en un **estándar mundial para la gestión de versiones**.  
+Hoy no solo es esencial para la programación, sino que también se aplica en otras áreas como la investigación científica, la documentación y cualquier proyecto que requiera trabajo colaborativo y ordenado.  
 
-## BY  : Juan Lluviera, Colonia, Uruguay
+Su capacidad para combinar **simplicidad, velocidad y confiabilidad**, junto con el fuerte respaldo de la comunidad y de grandes empresas, lo convierte en una herramienta fundamental para el desarrollo moderno.  
+
+---
+
+✍️ **Autor:** Juan Lluviera
