@@ -2,6 +2,10 @@
 
 Este repositorio contiene una breve investigación sobre **Git**, el sistema de control de versiones distribuido más utilizado en el mundo.
 
+📌 **Nota introductoria**  
+Este repositorio fue creado únicamente con fines académicos como ejercicio práctico para aprender y trabajar con **Git** y **GitHub**.  
+El contenido aquí presente no pretende ser una documentación oficial, sino un resumen breve sobre la historia, uso y patrocinadores de Git, realizado como parte de un trabajo de investigación.
+
 ## 📖 Historia breve
 - **2005**: Creado por **Linus Torvalds**, creador de Linux.  
 - Nació como respuesta a la necesidad de un sistema rápido, confiable y libre después de abandonar **BitKeeper**.  
