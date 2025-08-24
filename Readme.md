@@ -3,13 +3,16 @@
 Este repositorio contiene una breve investigación sobre **Git**, el sistema de control de versiones distribuido más utilizado en el mundo.
 
 📌 **Nota introductoria**  
-Este repositorio fue creado únicamente con fines académicos como ejercicio práctico para aprender y trabajar con **Git** y **GitHub**.  
-El contenido aquí presente no pretende ser una documentación oficial, sino un resumen breve sobre la historia, uso y patrocinadores de Git, realizado como parte de un trabajo de investigación.
+Este repositorio tiene como objetivo servir de práctica para el uso de **Git** y **GitHub**.  
+El contenido es un trabajo de investigación breve, orientado a comprender los conceptos básicos de Git y ejercitar la creación y manejo de repositorios.
+
+---
 
 ## 📖 Historia breve
-- **2005**: Creado por **Linus Torvalds**, creador de Linux.  
-- Nació como respuesta a la necesidad de un sistema rápido, confiable y libre después de abandonar **BitKeeper**.  
-- Diseñado con tres objetivos: **velocidad, simplicidad y robustez**.
+Git fue creado en **2005** por **Linus Torvalds**, el mismo desarrollador del kernel de Linux.  
+La comunidad necesitaba una herramienta rápida, segura y de código abierto para gestionar el desarrollo del kernel después de dejar de utilizar BitKeeper.  
+Desde sus inicios, Git se diseñó con tres prioridades: **eficiencia, sencillez y confiabilidad**.
+
 
 ## ⚙️ Uso principal
 Git es un **sistema de control de versiones distribuido** (DVCS) que permite:  
@@ -26,15 +29,18 @@ Comandos básicos:
 - `git branch / merge` → Manejo de ramas.  
 
 ## 🤝 Patrocinadores y soporte
-- Git es **software libre** bajo licencia **GPLv2**.  
-- Mantenido por la **comunidad open source** con apoyo de grandes empresas:  
+Git es un proyecto de **software libre** bajo la licencia **GPLv2**.  
+Actualmente recibe soporte de la comunidad open source y de empresas de gran relevancia tecnológica, entre ellas:  
   - **Google**  
   - **Microsoft (GitHub)**  
   - **Linux Foundation**  
   - **GitLab**  
   - **Atlassian (Bitbucket)**  
 
+---
+
 ## ✅ Conclusión
-Git nació en 2005 como herramienta para el desarrollo del kernel de Linux y hoy se ha convertido en el **estándar global de control de versiones**, usado por programadores, empresas y proyectos de todo el mundo.
+Desde su nacimiento como herramienta para el desarrollo del kernel de Linux, Git se ha consolidado como el **estándar mundial de control de versiones**.  
+Hoy en día, su uso se extiende más allá de la programación, siendo esencial en proyectos colaborativos de múltiples disciplinas.
 
 ## BY  : Juan Lluviera, Colonia, Uruguay
