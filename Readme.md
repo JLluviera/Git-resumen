@@ -36,3 +36,5 @@ Comandos básicos:
 
 ## ✅ Conclusión
 Git nació en 2005 como herramienta para el desarrollo del kernel de Linux y hoy se ha convertido en el **estándar global de control de versiones**, usado por programadores, empresas y proyectos de todo el mundo.
+
+## BY  : Juan Lluviera, Colonia, Uruguay
